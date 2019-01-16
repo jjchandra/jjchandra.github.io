@@ -1,0 +1,199 @@
+body {
+    margin: 0px;
+    font-family: segoe ui;
+    font-size: 15px
+}
+
+* {
+    box-sizing: border-box
+}
+
+.header {
+    width: 100%;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer {
+    background-color: #777777;
+    color: white;
+    width: 100%;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.heading {
+    color: white;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.page-header {
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.stretch {
+    width: 100%;
+}
+
+.main {
+    padding: 20px;
+}
+
+.login-form {
+    width: 350px
+}
+
+.label {
+    font-weight: 600;
+    color: #888888;
+    padding-top: 10px;
+    padding-bottom: 5px
+}
+
+.textbox {
+    height: 35px;
+    font-size: 15px;
+    color: #495057;
+    border: 1px solid #aaa;
+    padding: 5px
+}
+
+.btn {
+    height: 35px;
+    color: white;
+    font-size: 18px;
+    border-width: 0px;
+    background-color: blue;
+    font-family: segoe ui;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer
+}
+
+input {
+    font-family: segoe ui
+}
+
+th {
+    background-color: #999;
+    color: white;
+    font-weight: 600
+}
+
+td {
+    vertical-align: top;
+}
+
+.table-list {
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.table-list td, .table-list th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.btn-small {
+    height: 25px;
+    color: white;
+    border-width: 0px;
+    background-color: blue;
+    font-family: segoe ui;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer
+}
+
+.navbar-item {
+    color: white;
+    float: right;
+    padding: 10px
+}
+
+a {
+    color: white
+}
+
+.price {
+    text-align: right
+}
+
+.instock-label {
+    padding-top: 20px
+}
+
+.unit {
+    margin-top: 10px;
+    margin-left: 20px
+}
+
+.dropdown {
+    height: 35px;
+    color: #495057;
+    border: 1px solid #aaa;
+    font-family: segoe ui;
+    font-size: 15px
+}
+
+.textbox-unit {
+    width: 146px
+}
+
+.form-field-width {
+    width: 300px
+}
+
+.form-table {
+    margin-bottom: 20px
+}
+
+.btn-faded {
+    background-color: #999
+}
+
+.total {
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom: 20px
+}
+
+.field-error {
+    font-size: 13px;
+    color: red
+}
+
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.alert-error {
+    color: #721c24;
+    background-color: #f8d7da;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.cart-empty-msg {
+    font-size: 18px;
+    font-weight: 500;
+    color: #999;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+.align-right {
+    float: right
+}
